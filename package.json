@@ -1,0 +1,17 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "This is were I learn how to use React in one night and use it to build some demos over the course of the weekend. Wish me luck!",
+  "main": "index.js",
+  "scripts": {
+    "start": "httpster -d ./dist -p 3000"
+  },
+  "author": "Odafe Aror",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
